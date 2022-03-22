@@ -1,0 +1,8 @@
+.summary-list {
+    width: auto;
+    height: 700px;
+    border: 5px solid rgb(11, 158, 243);
+    margin: 5px;
+    overflow: auto;
+    padding: 10px;
+}
